@@ -5,7 +5,10 @@
 <h3 align="left">Connect with me:</h3>
 - 📫  shakedyosef1995@gmail.con
 <p align="left">
-<a href="https://www.linkedin.com/in/shaked-yosef-490654221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaked yosef" height="30" width="40" /></a>
+<a href="shakedyosef1995@gmail.con" target="blank"><img align="center" src="https://www.apkonline.net/iw/one-mail-emoji-gif/com.heyemoji.onemail" alt="shaked yosef" height="30" width="40" /></a>
+
+  <a href="https://www.linkedin.com/in/shaked-yosef-490654221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaked yosef" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/Admin.44755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaked yosef" height="30" width="40" /></a>
 </p>
 
