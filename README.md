@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/js/bootstrap.min.js"></script>
+
 
 <h1 align="center">Hi 👋, I'm Shaked Yosef</h1>
 <h3 align="left"> a passionate and results-driven Software Developer with expertise in full lifecycle application development. </h3>
@@ -7,9 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="mailto:shakedyosef1995@gmail.con">
-  <svg class="bi bi-envelope-fill" width="16" height="16" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <path d="M0 3.133V14a2 2 0 002 2h12a2 2 0 002-2V3.133l-7 4.111-7-4.11zm0-1.1A2 2 0 012 2H0a2 2 0 012-2h12a2 2 0 012 2h-2a2 2 0 00-1 1.732L8 7.976 1 2.865A2 2 0 010 1.032z"/>
-  </svg>
+Email Me
 </a>
 
 
