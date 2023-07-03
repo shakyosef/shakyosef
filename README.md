@@ -5,8 +5,8 @@
 <p align="left">I have experience in both front-end and back-end technologies, I have successfully delivered end-to-end applications, from planning to production. With a strong focus on efficient and scalable processing. I am excited to connect with professionals in the industry and explore new opportunities for collaboration and growth.</p>
 <h3 align="left">Connect with me:</h3>
 
-<a href="mailto:shakedyosef1995@gmail.con">
-Email Me
+<a href="mailto:shakedyosef1995@gmail.con" target="blank">
+img align="center" src="https://icons8.com/icon/44829/email" alt="shaked yosef" height="30" width="40" />
 </a>
 
 
