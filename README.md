@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="mailto:shakedyosef1995@gmail.con" target="blank">
-<img align="center" src="https://icons8.com/icon/44829/email" alt="shaked yosef" height="30" width="40" />
+Email Me
 </a>
-
+<br>
 
 
 
