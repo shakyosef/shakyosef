@@ -4,11 +4,9 @@
 <head>
   <style>
     body {
-      background-image: url('path/to/your/image.jpg');
-      background-size: cover;
-      background-position: center;
+    background-color: pink;
     }
-    /* Rest of your CSS styles */
+
   </style>
 </head>
 <body>
