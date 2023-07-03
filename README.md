@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Shaked Yosef</h1>
-<h3 align="left"> a passionate and results-driven Software Developer with expertise in full lifecycle application development. </h3>
-<p align="left">I have experience in both front-end and back-end technologies, I have successfully delivered end-to-end applications, from planning to production. With a strong focus on efficient and scalable processing. I am excited to connect with professionals in the industry and explore new opportunities for collaboration and growth.</p>
+<h2 align="center">A Software Developer</h2>
+<p align="left"> As a passionate and results-driven Software Developer, I excel in developing applications throughout the entire lifecycle.  I have experience in both front-end and back-end technologies, I have successfully delivered end-to-end applications, from planning to production. With a strong focus on efficient and scalable processing. I am excited to connect with professionals in the industry and explore new opportunities for collaboration and growth.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:shakedyosef1995@gmail.con" target="blank">
