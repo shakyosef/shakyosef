@@ -3,8 +3,8 @@
 <h3 align="left"> a passionate and results-driven Software Developer with expertise in full lifecycle application development. </h3>
 <p align="left">I have experience in both front-end and back-end technologies, I have successfully delivered end-to-end applications, from planning to production. With a strong focus on efficient and scalable processing. I am excited to connect with professionals in the industry and explore new opportunities for collaboration and growth.</p>
 <h3 align="left">Connect with me:</h3>
- 📫  shakedyosef1995@gmail.con
- <a href="mailto:shakedyosef1995@gmail.con" class="button">Email Me</a>
+
+ <a href="mailto:shakedyosef1995@gmail.con" class="button"> <img src="https://icons8.com/icon/44829/email" alt="Email Me"></a>
 <p align="left">
   <a href="https://www.linkedin.com/in/shaked-yosef-490654221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaked yosef" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Admin.44755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaked yosef" height="30" width="40" /></a>
