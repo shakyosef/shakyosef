@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Shaked Yosef</h1>
-<h3 align="center">I am Shaked Yosef, a passionate and results-driven Software Developer with expertise in full lifecycle application development. <br>I have experience in both front-end and back-end technologies, I have successfully delivered end-to-end applications, from planning to production. With a strong focus on efficient and scalable processing. I am excited to connect with professionals in the industry and explore new opportunities for collaboration and growth.</h3>
-
+<h3 align="center"> a passionate and results-driven Software Developer with expertise in full lifecycle application development. </h3>
+<p align="left">I have experience in both front-end and back-end technologies, I have successfully delivered end-to-end applications, from planning to production. With a strong focus on efficient and scalable processing. I am excited to connect with professionals in the industry and explore new opportunities for collaboration and growth.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shaked yosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaked yosef" height="30" width="40" /></a>
-<a href="https://fb.com/shaked yosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaked yosef" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaked-yosef-490654221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaked yosef" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Admin.44755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaked yosef" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
