@@ -2,12 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-    background-color: pink;
-    }
 
-  </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Shaked Yosef</h1>
